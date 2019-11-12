@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thanya</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sport">sports</string>
+    <string name="politics">politics</string>
+    <string name="nature">others</string>
+</resources>
